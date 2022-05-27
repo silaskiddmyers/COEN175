@@ -1,0 +1,2 @@
+scc: lexer.cpp
+	g++ lexer.cpp -o scc
